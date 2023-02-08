@@ -1,5 +1,5 @@
 # key-sounds
-c++ 500 kb
+c++ 500 kb（仅主要键）
 
 sounds文件夹内是放音频文件
 
